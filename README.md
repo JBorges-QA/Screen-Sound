@@ -7,7 +7,7 @@ Este é um projeto de exemplo criado em **C#** que roda em **console**, utilizan
 - Interpolação de string;
 - Coleções;
 - Dicionários;
-- Programação orientada a objeto(Classe, propriedade, método, herança e polimorfismo)
+- Programação orientada a objeto(Classe, propriedade, método, herança, polimorfismo e Interfaces)
 ---
 
 ## 📋 Descrição

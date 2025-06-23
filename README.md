@@ -5,7 +5,9 @@ Este é um projeto de exemplo criado em **C#** que roda em **console**, utilizan
 - Funções;
 - Estrutura de controle simples;
 - Interpolação de string;
-- Coleções
+- Coleções;
+- Dicionários;
+- Programação orientada a objeto(Classe, propriedade, método, herança e polimorfismo)
 ---
 
 ## 📋 Descrição
